@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HazaraWebApi.WebApi.props" />
+</Project>

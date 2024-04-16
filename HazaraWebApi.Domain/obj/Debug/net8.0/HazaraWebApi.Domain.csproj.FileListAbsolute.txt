@@ -1,0 +1,11 @@
+F:\HazaraCulturalWebsite\HazaraWebApi.Domain\bin\Debug\net8.0\HazaraWebApi.Domain.deps.json
+F:\HazaraCulturalWebsite\HazaraWebApi.Domain\bin\Debug\net8.0\HazaraWebApi.Domain.dll
+F:\HazaraCulturalWebsite\HazaraWebApi.Domain\bin\Debug\net8.0\HazaraWebApi.Domain.pdb
+F:\HazaraCulturalWebsite\HazaraWebApi.Domain\obj\Debug\net8.0\HazaraWebApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\HazaraCulturalWebsite\HazaraWebApi.Domain\obj\Debug\net8.0\HazaraWebApi.Domain.AssemblyInfoInputs.cache
+F:\HazaraCulturalWebsite\HazaraWebApi.Domain\obj\Debug\net8.0\HazaraWebApi.Domain.AssemblyInfo.cs
+F:\HazaraCulturalWebsite\HazaraWebApi.Domain\obj\Debug\net8.0\HazaraWebApi.Domain.csproj.CoreCompileInputs.cache
+F:\HazaraCulturalWebsite\HazaraWebApi.Domain\obj\Debug\net8.0\HazaraWebApi.Domain.dll
+F:\HazaraCulturalWebsite\HazaraWebApi.Domain\obj\Debug\net8.0\refint\HazaraWebApi.Domain.dll
+F:\HazaraCulturalWebsite\HazaraWebApi.Domain\obj\Debug\net8.0\HazaraWebApi.Domain.pdb
+F:\HazaraCulturalWebsite\HazaraWebApi.Domain\obj\Debug\net8.0\ref\HazaraWebApi.Domain.dll

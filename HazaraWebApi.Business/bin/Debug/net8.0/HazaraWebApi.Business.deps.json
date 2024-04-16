@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HazaraWebApi.Business/1.0.0": {
+        "dependencies": {
+          "HazaraWebApi.Domain": "1.0.0"
+        },
+        "runtime": {
+          "HazaraWebApi.Business.dll": {}
+        }
+      },
+      "HazaraWebApi.Domain/1.0.0": {
+        "runtime": {
+          "HazaraWebApi.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HazaraWebApi.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HazaraWebApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

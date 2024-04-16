@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\HazaraCulturalWebsite\\HazaraWebApi.Controller\\HazaraWebApi.Controller.csproj": {}
+  },
+  "projects": {
+    "F:\\HazaraCulturalWebsite\\HazaraWebApi.Business\\HazaraWebApi.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\HazaraCulturalWebsite\\HazaraWebApi.Business\\HazaraWebApi.Business.csproj",
+        "projectName": "HazaraWebApi.Business",
+        "projectPath": "F:\\HazaraCulturalWebsite\\HazaraWebApi.Business\\HazaraWebApi.Business.csproj",
+        "packagesPath": "C:\\Users\\sirat\\.nuget\\packages\\",
+        "outputPath": "F:\\HazaraCulturalWebsite\\HazaraWebApi.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sirat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\HazaraCulturalWebsite\\HazaraWebApi.Domain\\HazaraWebApi.Domain.csproj": {
+                "projectPath": "F:\\HazaraCulturalWebsite\\HazaraWebApi.Domain\\HazaraWebApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\HazaraCulturalWebsite\\HazaraWebApi.Controller\\HazaraWebApi.Controller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\HazaraCulturalWebsite\\HazaraWebApi.Controller\\HazaraWebApi.Controller.csproj",
+        "projectName": "HazaraWebApi.Controller",
+        "projectPath": "F:\\HazaraCulturalWebsite\\HazaraWebApi.Controller\\HazaraWebApi.Controller.csproj",
+        "packagesPath": "C:\\Users\\sirat\\.nuget\\packages\\",
+        "outputPath": "F:\\HazaraCulturalWebsite\\HazaraWebApi.Controller\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sirat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\HazaraCulturalWebsite\\HazaraWebApi.Business\\HazaraWebApi.Business.csproj": {
+                "projectPath": "F:\\HazaraCulturalWebsite\\HazaraWebApi.Business\\HazaraWebApi.Business.csproj"
+              },
+              "F:\\HazaraCulturalWebsite\\HazaraWebApi.Domain\\HazaraWebApi.Domain.csproj": {
+                "projectPath": "F:\\HazaraCulturalWebsite\\HazaraWebApi.Domain\\HazaraWebApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\HazaraCulturalWebsite\\HazaraWebApi.Domain\\HazaraWebApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\HazaraCulturalWebsite\\HazaraWebApi.Domain\\HazaraWebApi.Domain.csproj",
+        "projectName": "HazaraWebApi.Domain",
+        "projectPath": "F:\\HazaraCulturalWebsite\\HazaraWebApi.Domain\\HazaraWebApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\sirat\\.nuget\\packages\\",
+        "outputPath": "F:\\HazaraCulturalWebsite\\HazaraWebApi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sirat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

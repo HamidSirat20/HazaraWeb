@@ -1,0 +1,15 @@
+F:\HazaraCulturalWebsite\HazaraWebApi.Business\bin\Debug\net8.0\HazaraWebApi.Business.deps.json
+F:\HazaraCulturalWebsite\HazaraWebApi.Business\bin\Debug\net8.0\HazaraWebApi.Business.dll
+F:\HazaraCulturalWebsite\HazaraWebApi.Business\bin\Debug\net8.0\HazaraWebApi.Business.pdb
+F:\HazaraCulturalWebsite\HazaraWebApi.Business\bin\Debug\net8.0\HazaraWebApi.Domain.dll
+F:\HazaraCulturalWebsite\HazaraWebApi.Business\bin\Debug\net8.0\HazaraWebApi.Domain.pdb
+F:\HazaraCulturalWebsite\HazaraWebApi.Business\obj\Debug\net8.0\HazaraWebApi.Business.csproj.AssemblyReference.cache
+F:\HazaraCulturalWebsite\HazaraWebApi.Business\obj\Debug\net8.0\HazaraWebApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+F:\HazaraCulturalWebsite\HazaraWebApi.Business\obj\Debug\net8.0\HazaraWebApi.Business.AssemblyInfoInputs.cache
+F:\HazaraCulturalWebsite\HazaraWebApi.Business\obj\Debug\net8.0\HazaraWebApi.Business.AssemblyInfo.cs
+F:\HazaraCulturalWebsite\HazaraWebApi.Business\obj\Debug\net8.0\HazaraWebApi.Business.csproj.CoreCompileInputs.cache
+F:\HazaraCulturalWebsite\HazaraWebApi.Business\obj\Debug\net8.0\HazaraWe.C9416472.Up2Date
+F:\HazaraCulturalWebsite\HazaraWebApi.Business\obj\Debug\net8.0\HazaraWebApi.Business.dll
+F:\HazaraCulturalWebsite\HazaraWebApi.Business\obj\Debug\net8.0\refint\HazaraWebApi.Business.dll
+F:\HazaraCulturalWebsite\HazaraWebApi.Business\obj\Debug\net8.0\HazaraWebApi.Business.pdb
+F:\HazaraCulturalWebsite\HazaraWebApi.Business\obj\Debug\net8.0\ref\HazaraWebApi.Business.dll

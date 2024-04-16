@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xBYMv63biubntehf53eh0bc0UV076pPprDIB4kCQfkk=",
+  "Source": "HazaraWebApi.WebApi",
+  "BasePath": "_content/HazaraWebApi.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

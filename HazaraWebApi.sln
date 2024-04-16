@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HazaraWebApi.Domain", "HazaraWebApi.Domain\HazaraWebApi.Domain.csproj", "{4E2C4CE5-89A1-4384-9EB6-A7E8BCD81AEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HazaraWebApi.Business", "HazaraWebApi.Business\HazaraWebApi.Business.csproj", "{3A69C0D3-AA43-4521-B45E-656FF1E9B752}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HazaraWebApi.Controller", "HazaraWebApi.Controller\HazaraWebApi.Controller.csproj", "{9D9E1C40-12C4-4459-92DE-DB5A80087157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HazaraWebApi.WebApi", "HazaraWebApi.WebApi\HazaraWebApi.WebApi.csproj", "{208D71E8-E4D6-4098-A5C2-1EEB39724F08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E2C4CE5-89A1-4384-9EB6-A7E8BCD81AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2C4CE5-89A1-4384-9EB6-A7E8BCD81AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2C4CE5-89A1-4384-9EB6-A7E8BCD81AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2C4CE5-89A1-4384-9EB6-A7E8BCD81AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A69C0D3-AA43-4521-B45E-656FF1E9B752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A69C0D3-AA43-4521-B45E-656FF1E9B752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A69C0D3-AA43-4521-B45E-656FF1E9B752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A69C0D3-AA43-4521-B45E-656FF1E9B752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D9E1C40-12C4-4459-92DE-DB5A80087157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D9E1C40-12C4-4459-92DE-DB5A80087157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D9E1C40-12C4-4459-92DE-DB5A80087157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D9E1C40-12C4-4459-92DE-DB5A80087157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{208D71E8-E4D6-4098-A5C2-1EEB39724F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{208D71E8-E4D6-4098-A5C2-1EEB39724F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{208D71E8-E4D6-4098-A5C2-1EEB39724F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{208D71E8-E4D6-4098-A5C2-1EEB39724F08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
