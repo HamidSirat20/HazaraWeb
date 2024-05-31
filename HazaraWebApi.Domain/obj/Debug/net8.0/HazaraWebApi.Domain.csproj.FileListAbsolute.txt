@@ -9,3 +9,4 @@ F:\HazaraCulturalWebsite\HazaraWebApi.Domain\obj\Debug\net8.0\HazaraWebApi.Domai
 F:\HazaraCulturalWebsite\HazaraWebApi.Domain\obj\Debug\net8.0\refint\HazaraWebApi.Domain.dll
 F:\HazaraCulturalWebsite\HazaraWebApi.Domain\obj\Debug\net8.0\HazaraWebApi.Domain.pdb
 F:\HazaraCulturalWebsite\HazaraWebApi.Domain\obj\Debug\net8.0\ref\HazaraWebApi.Domain.dll
+F:\HazaraCulturalWebsite\HazaraWebApi.Domain\obj\Debug\net8.0\HazaraWebApi.Domain.sourcelink.json

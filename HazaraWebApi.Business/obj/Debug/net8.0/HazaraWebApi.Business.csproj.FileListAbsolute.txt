@@ -13,3 +13,4 @@ F:\HazaraCulturalWebsite\HazaraWebApi.Business\obj\Debug\net8.0\HazaraWebApi.Bus
 F:\HazaraCulturalWebsite\HazaraWebApi.Business\obj\Debug\net8.0\refint\HazaraWebApi.Business.dll
 F:\HazaraCulturalWebsite\HazaraWebApi.Business\obj\Debug\net8.0\HazaraWebApi.Business.pdb
 F:\HazaraCulturalWebsite\HazaraWebApi.Business\obj\Debug\net8.0\ref\HazaraWebApi.Business.dll
+F:\HazaraCulturalWebsite\HazaraWebApi.Business\obj\Debug\net8.0\HazaraWebApi.Business.sourcelink.json

@@ -15,3 +15,4 @@ F:\HazaraCulturalWebsite\HazaraWebApi.Controller\obj\Debug\net8.0\HazaraWebApi.C
 F:\HazaraCulturalWebsite\HazaraWebApi.Controller\obj\Debug\net8.0\refint\HazaraWebApi.Controller.dll
 F:\HazaraCulturalWebsite\HazaraWebApi.Controller\obj\Debug\net8.0\HazaraWebApi.Controller.pdb
 F:\HazaraCulturalWebsite\HazaraWebApi.Controller\obj\Debug\net8.0\ref\HazaraWebApi.Controller.dll
+F:\HazaraCulturalWebsite\HazaraWebApi.Controller\obj\Debug\net8.0\HazaraWebApi.Controller.sourcelink.json

@@ -37,3 +37,4 @@ F:\HazaraCulturalWebsite\HazaraWebApi.WebApi\obj\Debug\net8.0\refint\HazaraWebAp
 F:\HazaraCulturalWebsite\HazaraWebApi.WebApi\obj\Debug\net8.0\HazaraWebApi.WebApi.pdb
 F:\HazaraCulturalWebsite\HazaraWebApi.WebApi\obj\Debug\net8.0\HazaraWebApi.WebApi.genruntimeconfig.cache
 F:\HazaraCulturalWebsite\HazaraWebApi.WebApi\obj\Debug\net8.0\ref\HazaraWebApi.WebApi.dll
+F:\HazaraCulturalWebsite\HazaraWebApi.WebApi\obj\Debug\net8.0\HazaraWebApi.WebApi.sourcelink.json
