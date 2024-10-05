@@ -2,7 +2,6 @@ namespace HazaraWebApi.Domain.src.Entities;
 
 public class Registration : BaseEntity
 {
-    public Guid Id { get; set; }
     public Guid EventId { get; set; }
     public Guid MemberId { get; set; }
     public Status status { get; set; }

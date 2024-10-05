@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Jjd9enqnSGe84gKUeR0mecrB/NSfNfdsFgVD+Ai063QFLhrG4ve8EzNMALcscQnFHG0QF/MVX6D8aX83hRFMAw==",
+  "dgSpecHash": "hTL7JC7is7I=",
   "success": true,
   "projectFilePath": "F:\\HazaraCulturalWebsite\\HazaraWebApi.Business\\HazaraWebApi.Business.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sirat\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\sirat\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sirat\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\sirat\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\sirat\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HazaraWebApi.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+891901e4b00f133c132e5c0996a961a5dea84b03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e56fb67f285cd56d7eb27c983f4a0ef476a2b9a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("HazaraWebApi.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HazaraWebApi.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

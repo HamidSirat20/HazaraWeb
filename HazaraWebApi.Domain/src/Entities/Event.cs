@@ -2,7 +2,6 @@ namespace HazaraWebApi.Domain.src.Entities;
 
 public class Event : BaseEntity
 {
-    public Guid Id { get; set; }
     public string Title_EN { get; set; } = string.Empty;
     public string Title_FA { get; set; } = string.Empty;
     public string Description_EN { get; set; } = string.Empty;
